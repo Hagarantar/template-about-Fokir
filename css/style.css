@@ -340,8 +340,6 @@ nav{
     width: 90%;
     height: 150px;
     margin: auto;
-    backface-visibility: visible;
-    /* transform: rotate(180deg); */
 }
 .seven-img img{
 width: 100%;
